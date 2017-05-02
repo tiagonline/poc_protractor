@@ -1,5 +1,5 @@
 # POC Protractor
-(https://hiptest.net/app/projects) [![Code Climate]
+[![Hiptest Status](https://hiptest.net/badges/folder/238437)](https://hiptest.net/app/projects/48054/test-plan/folders/238437)
 
 
 
